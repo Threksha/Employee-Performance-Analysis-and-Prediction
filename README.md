@@ -1,0 +1,1 @@
+#Developed a machine learning pipeline for employee performance analysis by performing data preprocessing, exploratory data analysis, classification, regression, and clustering to predict performance, quantify performance scores, and identify employee segments for data-driven HR decision-making.
